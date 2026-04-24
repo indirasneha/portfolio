@@ -1,0 +1,47 @@
+.about p {
+  color: #cbd5f5;
+}
+
+.skills span {
+  margin: 8px;
+  padding: 8px 12px;
+  background: #0f172a;
+  border-radius: 8px;
+}
+
+.experience {
+  margin-top: 20px;
+}
+
+.exp-card {
+  background: #0f172a;
+  border: 1px solid #1e293b;
+  padding: 18px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.exp-card h3 {
+  color: #6366f1;
+  margin-bottom: 5px;
+}
+
+.company {
+  font-weight: 500;
+  color: #cbd5f5;
+}
+
+.duration {
+  font-size: 14px;
+  color: #94a3b8;
+  margin-bottom: 10px;
+}
+
+.exp-card ul {
+  padding-left: 18px;
+}
+
+.exp-card li {
+  margin-bottom: 6px;
+  color: #cbd5f5;
+}
